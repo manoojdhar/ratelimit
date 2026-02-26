@@ -8,7 +8,7 @@ A production grade horizontally scalable
 - Gradle
 
 
-#Architecture
+# Architecture
  Client
     |
 Rest Controller
